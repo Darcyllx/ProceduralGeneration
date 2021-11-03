@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - ClickButton
   - GridSystem
+  - SpawnPoint
+  - Rooms
   layers:
   - Default
   - TransparentFX
@@ -17,7 +19,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Room
   - 
   - 
   - 
