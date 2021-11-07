@@ -784,8 +784,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8494326360833914532}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.02, y: -2.9, z: 0}
-  m_LocalScale: {x: 0.030745815, y: 0.030745815, z: 0.030745815}
+  m_LocalPosition: {x: 1.974, y: -2.9, z: 0}
+  m_LocalScale: {x: 0.033924934, y: 0.033924934, z: 0.033924934}
   m_Children: []
   m_Father: {fileID: 4042754870233708}
   m_RootOrder: 2
@@ -854,6 +854,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edf704e4ac970477ca7a5278ba339fa3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scoreText: {fileID: 0}
+  theScore: 0
 --- !u!61 &1873652352
 BoxCollider2D:
   m_ObjectHideFlags: 0
